@@ -31,7 +31,7 @@
                 <a class="nav-link " aria-current="page" href="about.html">Know Me</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="projects.html">My Projects</a>
+                <a class="nav-link" href="projects.html">Projects</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="contact.html">Contact Me</a>
