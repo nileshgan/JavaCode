@@ -56,7 +56,21 @@
 
     <p>
         Hands on  experience in implementing and managing cloud-based solution on AWS. Proficient in infrastructure, containerization and continuous integration/continuous deployment (CI/CD) pipelines. Seeking to leverage to my skills and expertise to drive efficiency and reliability in cloud-based environment. <br>
-        <br>
+        
+
+Responsibilities and Contribution: –
+
+ Infrastructure Support and troubleshooting.
+ Develop CI/CD services for the internal engineering teams.
+ Project management and client delivery.
+ Timely Delivery and Deployment.
+ Design and deploy new features to streamline all the manual operation.
+ Execute the root cause analysis of all the critical issues.
+ Configuration Using Ansible Playbooks.
+ Create Docker Container using Docker Images.
+ Maintain 100+ user accounts in the AWS cloud.
+
+	<br>
         
         <b> Thank You.</b> 
     </p>
